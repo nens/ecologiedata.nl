@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krwdashboards on Ecologiedata.nl</title>
+    <link>http://localhost:1313/krwdashboard/</link>
+    <description>Recent content in Krwdashboards on Ecologiedata.nl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Oct 2015 10:10:15 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/krwdashboard/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aanleiding</title>
+      <link>http://localhost:1313/krwdashboard/aanleiding/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>http://localhost:1313/krwdashboard/aanleiding/</guid>
+      <description>
+
+&lt;h2 id=&#34;aanleiding:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aanleiding&lt;/h2&gt;
+
+&lt;p&gt;Rijkswaterstaat heeft Nelen &amp;amp; Schuurmans gevraagd hun visie op visualisatie van ecologische en fysisch-chemische waterkwaliteitsinformatie uit te werken. Hieraan hebben we invulling gegeven door een KRW Dashboard in te richten. Dit KRW Dashboard is een prototype en is gevuld met gegevens uit het KRW portaal en met dummy data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impressie</title>
+      <link>http://localhost:1313/krwdashboard/impressie/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>http://localhost:1313/krwdashboard/impressie/</guid>
+      <description>
+
+&lt;h2 id=&#34;impressie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Impressie&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/screenshot-krw-kpi.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>KRW Dashboard</title>
+      <link>http://localhost:1313/krwdashboard/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>http://localhost:1313/krwdashboard/</guid>
+      <description>
+
+&lt;h2 id=&#34;krw-dashboard:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;KRW Dashboard&lt;/h2&gt;
+
+&lt;p&gt;Om inzicht te krijgen in de ecologische en fysisch-chemische waterkwaliteit wil je vanuit het grotere geheel kunnen inzoomen naar relevante details. Om dit proces voor de KRW te ondersteunen is het KRW Dashboard ontwikkeld. Door de generieke configuratie is het Dashboard ook geschikt om het voor andere doelen dan KRW in te zetten.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
