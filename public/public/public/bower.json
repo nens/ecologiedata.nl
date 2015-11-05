@@ -1,0 +1,21 @@
+{
+  "name": "ecologiedata.nl",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nens/ecologiedata.nl",
+  "authors": [
+    "Gijs Nijholt <gijs.nijholt@nelen-schuurmans.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "twbs-bootstrap-sass": "~3.3.5",
+    "sweetalert": "1.0.1",
+    "leaflet": "0.7.3"
+  }
+}
