@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advies on Ecologiedata.nl</title>
+    <link>http://localhost:1313/advies/</link>
+    <description>Recent content in Advies on Ecologiedata.nl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Oct 2015 10:10:15 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/advies/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advies</title>
+      <link>http://localhost:1313/advies/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>http://localhost:1313/advies/</guid>
+      <description>
+
+&lt;h2 id=&#34;advies:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Advies&lt;/h2&gt;
+
+&lt;p&gt;Door onze kennis en ervaring met de werkvelden ecologie en waterkwaliteit kunnen wij op maat advies geven over specifieke vraagstukken, ondersteunen of ontzorgen in de data-ordening en data-analyse, volledige watersysteemanalyses uitvoeren, begeleiding bieden bij monitoring en ga zo maar door. We zijn op stedelijk, regionaal en landelijk schaalniveau actief met ons advieswerk.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
