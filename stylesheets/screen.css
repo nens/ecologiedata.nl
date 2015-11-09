@@ -8888,7 +8888,7 @@ blockquote p {
 }
 /* line 6, ../sass/modules/_frontpage.scss */
 .frontpage .logo {
-  width: 475px;
+  width: 728px;
   height: 100px;
   background-size: cover;
   background-image: url("../images/efcis-logo.svg");
@@ -8900,7 +8900,7 @@ blockquote p {
 }
 /* line 19, ../sass/modules/_frontpage.scss */
 .frontpage h4 {
-  color: #0071BC;
+  color: #6C4C7D;
   font-weight: 600;
 }
 /* line 24, ../sass/modules/_frontpage.scss */
@@ -8930,10 +8930,11 @@ blockquote p {
 }
 /* line 52, ../sass/modules/_frontpage.scss */
 .frontpage .intro-text {
+  font-family: 'Open Sans Bold', sans-serif;
   line-height: 1.7;
   margin-bottom: 4rem;
 }
-/* line 57, ../sass/modules/_frontpage.scss */
+/* line 58, ../sass/modules/_frontpage.scss */
 .frontpage .banner-background {
   background-image: url("../images/efcis-banner.svg");
   background-repeat: no-repeat;
@@ -8941,7 +8942,7 @@ blockquote p {
   background-position-x: 60px;
   height: 300px;
 }
-/* line 65, ../sass/modules/_frontpage.scss */
+/* line 66, ../sass/modules/_frontpage.scss */
 .frontpage .dark {
   color: #fff;
   background-color: #323A45;
@@ -9041,4 +9042,9 @@ blockquote p {
   top: 130px;
   bottom: 0;
   width: 100%;
+}
+/* line 97, ../sass/modules/_guide.scss */
+.guide ul li {
+  list-style-type: disc;
+  list-style-position: inside;
 }
