@@ -10,6 +10,58 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Instructiefilms</title>
+      <link>/efcis/instructiefilms/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>/efcis/instructiefilms/</guid>
+      <description>
+
+&lt;h2 id=&#34;instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Instructiefilms&lt;/h2&gt;
+
+&lt;p&gt;De instructiefilm kunt u hier downloaden:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS%20short.mp4?raw=true&#34;&gt;Korte versie (40 MB, MP4)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS_long.mp4?raw=true&#34;&gt;Lange versie (60 MB, MP4)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Advies</title>
+      <link>/advies/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>/advies/</guid>
+      <description>
+
+&lt;h2 id=&#34;advies:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Advies&lt;/h2&gt;
+
+&lt;p&gt;Door onze kennis en ervaring met de werkvelden ecologie en waterkwaliteit kunnen wij op maat advies geven over specifieke vraagstukken, ondersteunen of ontzorgen in de data-ordening en data-analyse, volledige watersysteemanalyses uitvoeren, begeleiding bieden bij monitoring en ga zo maar door. We zijn op stedelijk, regionaal en landelijk schaalniveau actief met ons advieswerk.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EFCIS</title>
+      <link>/efcis/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>/efcis/</guid>
+      <description>
+
+&lt;h2 id=&#34;efcis:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;EFCIS&lt;/h2&gt;
+
+&lt;p&gt;EFCIS is een gebruiksvriendelijke webapplicatie die specifiek is ontwikkeld voor de opslag, beheer, ontsluiting en analyse van ecologische en fysisch-chemische waterkwaliteitsgegevens.&lt;/p&gt;
+
+&lt;p&gt;Hierdoor worden de databeheerders ontzorgd én worden de (beleids-)adviseurs ecologie en waterkwaliteit gefaciliteerd om meer met de monitoringsgegevens te kunnen gaan doen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/screenshot-efcis.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kenmerken</title>
       <link>/efcis/kenmerken/</link>
       <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
@@ -56,58 +108,6 @@
     </item>
     
     <item>
-      <title>EFCIS</title>
-      <link>/efcis/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/efcis/</guid>
-      <description>
-
-&lt;h2 id=&#34;efcis:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;EFCIS&lt;/h2&gt;
-
-&lt;p&gt;EFCIS is een gebruiksvriendelijke webapplicatie die specifiek is ontwikkeld voor de opslag, beheer, ontsluiting en analyse van ecologische en fysisch-chemische waterkwaliteitsgegevens.&lt;/p&gt;
-
-&lt;p&gt;Hierdoor worden de databeheerders ontzorgd én worden de (beleids-)adviseurs ecologie en waterkwaliteit gefaciliteerd om meer met de monitoringsgegevens te kunnen gaan doen.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/screenshot-efcis.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Advies</title>
-      <link>/advies/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/advies/</guid>
-      <description>
-
-&lt;h2 id=&#34;advies:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Advies&lt;/h2&gt;
-
-&lt;p&gt;Door onze kennis en ervaring met de werkvelden ecologie en waterkwaliteit kunnen wij op maat advies geven over specifieke vraagstukken, ondersteunen of ontzorgen in de data-ordening en data-analyse, volledige watersysteemanalyses uitvoeren, begeleiding bieden bij monitoring en ga zo maar door. We zijn op stedelijk, regionaal en landelijk schaalniveau actief met ons advieswerk.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Instructiefilms</title>
-      <link>/efcis/instructiefilms/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/efcis/instructiefilms/</guid>
-      <description>
-
-&lt;h2 id=&#34;instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Instructiefilms&lt;/h2&gt;
-
-&lt;p&gt;De instructiefilm kunt u hier downloaden:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS%20short.mp4?raw=true&#34;&gt;Korte versie (40 MB, MP4)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS_long.mp4?raw=true&#34;&gt;Lange versie (60 MB, MP4)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Opbouw</title>
       <link>/efcis/opbouw/</link>
       <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
@@ -124,20 +124,6 @@
 &lt;p&gt;Door deze modulaire opbouw wordt het mogelijk om op meerdere bronnen ‘in te pluggen’, waardoor automatische koppelingen met andere systemen (bijvoorbeeld waterkwantiteit of toetsingsmodules) ontwikkeld kunnen worden.&lt;/p&gt;
 
 &lt;p&gt;De visualisatie van gegevens is georganiseerd in drie schermen, t.w. Tabelscherm, Kaartscherm en Grafiekscherm. De database is specifiek ingericht om met dit soort data en bijbehorende metadata te werken.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Aanleiding</title>
-      <link>/krwdashboard/aanleiding/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/krwdashboard/aanleiding/</guid>
-      <description>
-
-&lt;h2 id=&#34;aanleiding:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aanleiding&lt;/h2&gt;
-
-&lt;p&gt;Rijkswaterstaat heeft Nelen &amp;amp; Schuurmans gevraagd hun visie op visualisatie van ecologische en fysisch-chemische waterkwaliteitsinformatie uit te werken. Hieraan hebben we invulling gegeven door een KRW Dashboard in te richten. Dit KRW Dashboard is een prototype en is gevuld met gegevens uit het KRW portaal en met dummy data.&lt;/p&gt;
 </description>
     </item>
     
@@ -166,6 +152,20 @@
 &lt;h2 id=&#34;krw-dashboard:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;KRW Dashboard&lt;/h2&gt;
 
 &lt;p&gt;Om inzicht te krijgen in de ecologische en fysisch-chemische waterkwaliteit wil je vanuit het grotere geheel kunnen inzoomen naar relevante details. Om dit proces voor de KRW te ondersteunen is het KRW Dashboard ontwikkeld. Door de generieke configuratie is het Dashboard ook geschikt om het voor andere doelen dan KRW in te zetten.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aanleiding</title>
+      <link>/krwdashboard/aanleiding/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>/krwdashboard/aanleiding/</guid>
+      <description>
+
+&lt;h2 id=&#34;aanleiding:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aanleiding&lt;/h2&gt;
+
+&lt;p&gt;Rijkswaterstaat heeft Nelen &amp;amp; Schuurmans gevraagd hun visie op visualisatie van ecologische en fysisch-chemische waterkwaliteitsinformatie uit te werken. Hieraan hebben we invulling gegeven door een KRW Dashboard in te richten. Dit KRW Dashboard is een prototype en is gevuld met gegevens uit het KRW portaal en met dummy data.&lt;/p&gt;
 </description>
     </item>
     
