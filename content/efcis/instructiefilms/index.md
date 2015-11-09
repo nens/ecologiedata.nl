@@ -7,9 +7,11 @@ title = "Instructiefilms"
 Instructiefilms
 --------------------------
 
-De instructiefilm kunt u hier downloaden: 
+ * Korte versie
 
-- [Korte versie (40 MB, MP4)](https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS%20short.mp4?raw=true)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DDIV0ctuktQ" frameborder="0" allowfullscreen></iframe>
 
-- [Lange versie (60 MB, MP4)](https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS_long.mp4?raw=true)
+ * Lange versie
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MAPoOGi6SMA" frameborder="0" allowfullscreen></iframe>
 

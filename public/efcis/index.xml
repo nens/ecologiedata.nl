@@ -75,15 +75,11 @@
 
 &lt;h2 id=&#34;a-name-instructiefilms-a-instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;instructiefilms&#34;&gt;&lt;/a&gt;Instructiefilms&lt;/h2&gt;
 
-&lt;p&gt;De instructiefilm kunt u hier downloaden:&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/DDIV0ctuktQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS%20short.mp4?raw=true&#34;&gt;Korte versie (40 MB, MP4)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MAPoOGi6SMA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS_long.mp4?raw=true&#34;&gt;Lange versie (60 MB, MP4)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/screenshot-efcis.jpg&#34; width=&#34;75%&#34; class=&#34;img-responsive img-thumbnail&#34;&gt;&lt;/p&gt;
+&lt;!-- &lt;img src=&#34;../images/screenshot-efcis.jpg&#34; width=&#34;75%&#34; class=&#34;img-responsive img-thumbnail&#34;&gt; --&gt;
 </description>
     </item>
     
@@ -97,13 +93,17 @@
 
 &lt;h2 id=&#34;instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Instructiefilms&lt;/h2&gt;
 
-&lt;p&gt;De instructiefilm kunt u hier downloaden:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Korte versie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/DDIV0ctuktQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS%20short.mp4?raw=true&#34;&gt;Korte versie (40 MB, MP4)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS_long.mp4?raw=true&#34;&gt;Lange versie (60 MB, MP4)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Lange versie&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MAPoOGi6SMA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
