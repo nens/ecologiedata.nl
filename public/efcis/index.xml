@@ -17,13 +17,71 @@
       <guid>/efcis/</guid>
       <description>
 
-&lt;h2 id=&#34;efcis:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;EFCIS&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-algemeen-a-efcis:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;algemeen&#34;&gt;&lt;/a&gt;EFCIS&lt;/h2&gt;
 
 &lt;p&gt;EFCIS is een gebruiksvriendelijke webapplicatie die specifiek is ontwikkeld voor de opslag, beheer, ontsluiting en analyse van ecologische en fysisch-chemische waterkwaliteitsgegevens.&lt;/p&gt;
 
 &lt;p&gt;Hierdoor worden de databeheerders ontzorgd én worden de (beleids-)adviseurs ecologie en waterkwaliteit gefaciliteerd om meer met de monitoringsgegevens te kunnen gaan doen.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;../images/screenshot-efcis.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;a-name-opbouw-a-opbouw:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;opbouw&#34;&gt;&lt;/a&gt;Opbouw&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/modulairebouw.png&#34; width=&#34;60%&#34; style=&#34;margin:0 0 20px 20px;&#34; class=&#34;pull-right img-responsive img-thumbnail&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Met EFCIS richten we ons op een gebruiksvriendelijke toepassing die volledig geschikt is voor het doel: Ecologische en fysisch-chemische data importeren, valideren, bewerken, visualiseren en exporteren.&lt;/p&gt;
+
+&lt;p&gt;In de opzet van de webapplicatie maken we onderscheid in de twee ingangen om met data te werken: Visualisatie en databeheer. Beide ingangen ‘pluggen in’ op de achterliggende database (middels een API).&lt;/p&gt;
+
+&lt;p&gt;Door deze modulaire opbouw wordt het mogelijk om op meerdere bronnen ‘in te pluggen’, waardoor automatische koppelingen met andere systemen (bijvoorbeeld waterkwantiteit of toetsingsmodules) ontwikkeld kunnen worden.&lt;/p&gt;
+
+&lt;p&gt;De visualisatie van gegevens is georganiseerd in drie schermen, t.w. Tabelscherm, Kaartscherm en Grafiekscherm. De database is specifiek ingericht om met dit soort data en bijbehorende metadata te werken.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-kenmerken-a-overzicht-van-de-kenmerken:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;kenmerken&#34;&gt;&lt;/a&gt;Overzicht van de kenmerken&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Geschikt en ingericht voor ecologische gegevens zoals macrofyten, macrofauna, fytoplankton en vis&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Geschikt en ingericht voor fysisch-chemische gegevens zoals zwemwaterkwaliteit, oppervlaktewaterkwaliteit en grondwaterkwaliteit&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Geschikt voor meetgegevens, toetsresultaten en berekende kentallen.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Sluit aan bij de Aquo standaarden (Aquo DS) en de soortenlijst vanuit de TWN&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Numerieke en alfanumerieke waarden zijn mogelijk&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;EFCIS wordt niet lokaal geïnstalleerd, maar is een cloud-oplossing die overal en altijd toegankelijk is via een moderne webbrowser&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Meerdere (50+) gelijktijdige gebruikers mogelijk zonder performance verlies&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Grote vrijheid en eenvoud in het databeheer&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Veel zaken zijn vrij instelbaar, zoals locatiegroepen, parametergroepen, validatieregels, kentallen, samengestelde parameters&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Gegevens kunnen door de databeheerder worden aangepast, gewijzigd, verwijderd en gevalideerd&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Geschikt voor integrale analyses van ecologie en waterkwaliteit&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ruimte voor metadata zoals meetpuntkenmerken, analyse- en bemonsteringsmethoden&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Geschikt voor vismonitoring, want EFCIS is ingericht voor het opnemen van bemonsterd oppervlak en de lengte en gewicht van de vis&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Bij EFCIS staat het gebruik centraal. Dus geen gedoe met installatie.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Volledig open source ontwikkeling (dus niet alleen open data, open standaarden, maar volledige source code is beschikbaar)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Koppelingen met IRIS, GIS, KRW portaal, NDFF, Document Managers zijn mogelijk&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;a-name-instructiefilms-a-instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;instructiefilms&#34;&gt;&lt;/a&gt;Instructiefilms&lt;/h2&gt;
+
+&lt;p&gt;De instructiefilm kunt u hier downloaden:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS%20short.mp4?raw=true&#34;&gt;Korte versie (40 MB, MP4)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/nens/ecologiedata.nl/raw/gh-pages/films/EFCIS_long.mp4?raw=true&#34;&gt;Lange versie (60 MB, MP4)&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../images/screenshot-efcis.jpg&#34; width=&#34;75%&#34; class=&#34;img-responsive img-thumbnail&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
