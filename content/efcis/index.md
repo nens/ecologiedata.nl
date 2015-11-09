@@ -7,6 +7,7 @@ title = "EFCIS"
 
 ## <a name="algemeen"></a>EFCIS
 
+<i class="fa fa-download"></i>&nbsp;<a href="../files/EFCIS-Showcase.pdf">Productblad</a>
 
 EFCIS is een gebruiksvriendelijke webapplicatie die specifiek is ontwikkeld voor de opslag, beheer, ontsluiting en analyse van ecologische en fysisch-chemische waterkwaliteitsgegevens. 
 
