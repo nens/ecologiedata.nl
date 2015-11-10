@@ -2,6 +2,9 @@
 	background-color: $efcis-white;
 	font-family: 'Merriweather', serif;
 
+	.btn {
+		margin: 20px 0 20px 0;
+	}
 
 	.logo {
 		width: 728px;
@@ -31,8 +34,8 @@
 	.header {
 		background-image: url('../images/header-bg.jpg');
 		background-size:     cover;
-    background-repeat:   no-repeat;
-    background-position: center center;
+	    background-repeat:   no-repeat;
+	    background-position: center center;
 		// background-color: $efcis-purple;
 
 		color: #ffffff;
@@ -49,9 +52,15 @@
 		color: #fff;
 	}
 
-	.intro-text {
-		font-family: 'Open Sans Bold', sans-serif;
-	    line-height: 1.7;
+	p.intro-text {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 15px;
+		font-stretch: normal;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: normal;
+		height: 100px;
+		line-height: 25px;
 	    margin-bottom: 4rem;
 	}
 
