@@ -11,6 +11,14 @@
 	line-height: 25px;
 	
 
+	.logo {
+		width: 420px;
+		height: 75px;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-image: url('../images/efcis-logo.png');
+	}
+
 	h1 {
 		font-family: 'Merriweather', serif;
 		font-size: 5rem;
