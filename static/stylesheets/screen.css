@@ -8892,10 +8892,11 @@ blockquote p {
 }
 /* line 9, ../sass/modules/_frontpage.scss */
 .frontpage .logo {
-  width: 728px;
+  width: 420px;
   height: 100px;
-  background-size: cover;
-  background-image: url("../images/efcis-logo.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-image: url("../images/efcis-logo.png");
 }
 /* line 17, ../sass/modules/_frontpage.scss */
 .frontpage h1 {
@@ -9042,7 +9043,7 @@ blockquote p {
 }
 /* line 83, ../sass/modules/_guide.scss */
 .guide .strong, .guide strong {
-  font-family: 'Open Sans Bold', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 700;
 }
 /* line 88, ../sass/modules/_guide.scss */
