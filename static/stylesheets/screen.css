@@ -8886,31 +8886,35 @@ blockquote p {
   background-color: #fff;
   font-family: 'Merriweather', serif;
 }
-/* line 6, ../sass/modules/_frontpage.scss */
+/* line 5, ../sass/modules/_frontpage.scss */
+.frontpage .btn {
+  margin: 20px 0 20px 0;
+}
+/* line 9, ../sass/modules/_frontpage.scss */
 .frontpage .logo {
   width: 728px;
   height: 100px;
   background-size: cover;
   background-image: url("../images/efcis-logo.svg");
 }
-/* line 14, ../sass/modules/_frontpage.scss */
+/* line 17, ../sass/modules/_frontpage.scss */
 .frontpage h1 {
   font-size: 5rem;
   font-weight: 700;
 }
-/* line 19, ../sass/modules/_frontpage.scss */
+/* line 22, ../sass/modules/_frontpage.scss */
 .frontpage h4 {
   color: #6C4C7D;
   font-weight: 600;
 }
-/* line 24, ../sass/modules/_frontpage.scss */
+/* line 27, ../sass/modules/_frontpage.scss */
 .frontpage p.lead {
   font-size: 2rem;
   font-family: "Merriweather", "Georgia", "Times New Roman", serif;
   line-height: 1.7;
   margin-top: 2em;
 }
-/* line 31, ../sass/modules/_frontpage.scss */
+/* line 34, ../sass/modules/_frontpage.scss */
 .frontpage .header {
   background-image: url("../images/header-bg.jpg");
   background-size: cover;
@@ -8920,21 +8924,27 @@ blockquote p {
   padding-bottom: 3.7rem;
   padding-top: 2rem;
 }
-/* line 43, ../sass/modules/_frontpage.scss */
+/* line 46, ../sass/modules/_frontpage.scss */
 .frontpage .footer a {
   color: #333333;
 }
-/* line 48, ../sass/modules/_frontpage.scss */
+/* line 51, ../sass/modules/_frontpage.scss */
 .frontpage a {
   color: #fff;
 }
-/* line 52, ../sass/modules/_frontpage.scss */
-.frontpage .intro-text {
-  font-family: 'Open Sans Bold', sans-serif;
-  line-height: 1.7;
+/* line 55, ../sass/modules/_frontpage.scss */
+.frontpage p.intro-text {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-stretch: normal;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  height: 100px;
+  line-height: 25px;
   margin-bottom: 4rem;
 }
-/* line 58, ../sass/modules/_frontpage.scss */
+/* line 67, ../sass/modules/_frontpage.scss */
 .frontpage .banner-background {
   background-image: url("../images/efcis-banner.svg");
   background-repeat: no-repeat;
@@ -8942,7 +8952,7 @@ blockquote p {
   background-position-x: 60px;
   height: 300px;
 }
-/* line 66, ../sass/modules/_frontpage.scss */
+/* line 75, ../sass/modules/_frontpage.scss */
 .frontpage .dark {
   color: #fff;
   background-color: #323A45;
@@ -8952,33 +8962,40 @@ blockquote p {
 /* line 1, ../sass/modules/_guide.scss */
 .guide {
   background-color: #F1F1F1;
-  font-family: 'Open Sans Bold', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-stretch: normal;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  height: 100px;
+  line-height: 25px;
 }
-/* line 7, ../sass/modules/_guide.scss */
+/* line 14, ../sass/modules/_guide.scss */
 .guide h1 {
   font-family: 'Merriweather', serif;
   font-size: 5rem;
   font-weight: 700;
 }
-/* line 13, ../sass/modules/_guide.scss */
+/* line 20, ../sass/modules/_guide.scss */
 .guide h2 {
   font-family: 'Merriweather', serif;
   font-size: 3rem;
   font-weight: 700;
 }
-/* line 19, ../sass/modules/_guide.scss */
+/* line 26, ../sass/modules/_guide.scss */
 .guide h4 {
   color: #0071BC;
   font-weight: 600;
 }
-/* line 24, ../sass/modules/_guide.scss */
+/* line 31, ../sass/modules/_guide.scss */
 .guide p.lead {
   font-size: 2rem;
   font-family: "Merriweather", "Georgia", "Times New Roman", serif;
   line-height: 1.7;
   margin-top: 2em;
 }
-/* line 31, ../sass/modules/_guide.scss */
+/* line 38, ../sass/modules/_guide.scss */
 .guide .header {
   background-color: #845F8C;
   background-image: none;
@@ -8986,16 +9003,16 @@ blockquote p {
   padding-bottom: 1rem;
   padding-top: 0.5rem;
 }
-/* line 39, ../sass/modules/_guide.scss */
+/* line 46, ../sass/modules/_guide.scss */
 .guide a {
   color: #000;
 }
-/* line 43, ../sass/modules/_guide.scss */
+/* line 50, ../sass/modules/_guide.scss */
 .guide .intro-text {
   line-height: 1.7;
   margin-bottom: 4rem;
 }
-/* line 48, ../sass/modules/_guide.scss */
+/* line 55, ../sass/modules/_guide.scss */
 .guide .banner-background {
   background-image: url("../images/ui.png");
   background-repeat: no-repeat;
@@ -9003,48 +9020,226 @@ blockquote p {
   background-position-x: 60px;
   height: 300px;
 }
-/* line 56, ../sass/modules/_guide.scss */
+/* line 63, ../sass/modules/_guide.scss */
 .guide .dark {
   color: #fff;
   background-color: #323A45;
   padding-top: 4rem;
 }
-/* line 62, ../sass/modules/_guide.scss */
+/* line 69, ../sass/modules/_guide.scss */
 .guide .block {
   display: block;
 }
-/* line 66, ../sass/modules/_guide.scss */
+/* line 73, ../sass/modules/_guide.scss */
 .guide .truncate {
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
 }
-/* line 72, ../sass/modules/_guide.scss */
+/* line 79, ../sass/modules/_guide.scss */
 .guide .underline {
   text-decoration: underline;
 }
-/* line 76, ../sass/modules/_guide.scss */
+/* line 83, ../sass/modules/_guide.scss */
 .guide .strong, .guide strong {
   font-family: 'Open Sans Bold', sans-serif;
   font-weight: 700;
 }
-/* line 81, ../sass/modules/_guide.scss */
+/* line 88, ../sass/modules/_guide.scss */
 .guide .menu a {
   line-height: 20px;
 }
-/* line 85, ../sass/modules/_guide.scss */
+/* line 92, ../sass/modules/_guide.scss */
 .guide a.spacing, .guide span.spacing {
   margin: 5px 0 5px 0;
 }
-/* line 89, ../sass/modules/_guide.scss */
+/* line 96, ../sass/modules/_guide.scss */
 .guide .docnav {
   position: fixed;
   top: 130px;
   bottom: 0;
   width: 100%;
 }
-/* line 97, ../sass/modules/_guide.scss */
+/* line 104, ../sass/modules/_guide.scss */
 .guide ul li {
   list-style-type: disc;
   list-style-position: inside;
+}
+/* line 111, ../sass/modules/_guide.scss */
+.guide .pricing-table {
+  margin: 100px 0;
+}
+/* line 114, ../sass/modules/_guide.scss */
+.guide .pricing-table:after {
+  display: block;
+  visibility: hidden;
+  clear: both;
+  height: 0;
+  content: "";
+}
+/* line 121, ../sass/modules/_guide.scss */
+.guide .pricing-table > div:first-child .pricing-column-content, .guide .pricing-table > div:first-child h3 {
+  border-left: 1px solid #eeeeee !important;
+}
+/* line 124, ../sass/modules/_guide.scss */
+.guide .pricing-column {
+  float: left;
+  overflow: hidden;
+  padding: 0px;
+  background-color: #fff;
+  text-align: center;
+  -webkit-transition: box-shadow 0.2s linear;
+  -moz-transition: box-shadow 0.2s linear;
+  -o-transition: box-shadow 0.2s linear;
+  transition: box-shadow 0.2s linear;
+}
+/* line 135, ../sass/modules/_guide.scss */
+.guide .pricing-column .features {
+  padding: 0;
+  margin-bottom: 0;
+  background: none;
+}
+/* line 140, ../sass/modules/_guide.scss */
+.guide .pricing-column .pricing-column-content {
+  padding: 0px 0px 20px 0px;
+  border-right: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+}
+/* line 146, ../sass/modules/_guide.scss */
+.guide .pricing-column.highlight {
+  position: relative;
+  z-index: 100;
+  margin: -33px -1px 0px -1px;
+  background-color: #ffffff;
+  -webkit-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
+  -moz-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
+  box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
+  -o-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
+}
+/* line 156, ../sass/modules/_guide.scss */
+.guide .pricing-column.highlight.accent-color h3 {
+  margin-top: 14px !important;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+/* line 161, ../sass/modules/_guide.scss */
+.guide .pricing-column.highlight.accent-color h3 .highlight-reason {
+  color: #845F8C;
+}
+/* line 164, ../sass/modules/_guide.scss */
+.guide .pricing-column.highlight .pricing-column-content, .guide .pricing-column.highlight h3 {
+  border: none;
+}
+/* line 168, ../sass/modules/_guide.scss */
+.guide .pricing-column.highlight h3 .highlight-reason {
+  display: block;
+  color: rgba(0, 0, 0, 0.4);
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-size: 12px;
+}
+/* line 175, ../sass/modules/_guide.scss */
+.guide .pricing-column.highlight .pricing-column-content {
+  border-right: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+  border-left: 1px solid #eeeeee;
+}
+/* line 180, ../sass/modules/_guide.scss */
+.guide .pricing-column.highlight:hover {
+  -webkit-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.15);
+  -moz-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.15);
+  -o-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.15);
+}
+/* line 186, ../sass/modules/_guide.scss */
+.guide .pricing-column ul li {
+  padding: 5px 25px;
+  color: #666666 !important;
+  list-style: none;
+  line-height: 18px;
+}
+/* line 192, ../sass/modules/_guide.scss */
+.guide .pricing-column.highlight h3 {
+  margin-bottom: 0px !important;
+  padding: 15px 0px;
+}
+/* line 196, ../sass/modules/_guide.scss */
+.guide .pricing-column h3 {
+  margin-bottom: 0px;
+  padding: 18px 0px 18px 0px;
+  border-top: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
+  background-color: #ffffff;
+  font-size: 26px;
+  line-height: 28px;
+}
+/* line 206, ../sass/modules/_guide.scss */
+.guide .pricing-column .pricing-header {
+  background-color: #f8f8f8;
+}
+/* line 209, ../sass/modules/_guide.scss */
+.guide .pricing-column h4 {
+  margin-bottom: 0px;
+  margin-left: -22px;
+  padding: 20px 30px 6px 30px;
+  color: #333333;
+  font-size: 54px !important;
+  line-height: 42px !important;
+  font-weight: 700;
+}
+/* line 218, ../sass/modules/_guide.scss */
+.guide .pricing-column h4 .dollar-sign {
+  position: relative;
+  top: -14px;
+  right: -6px;
+  font-size: 22px;
+  line-height: 22px;
+}
+/* line 225, ../sass/modules/_guide.scss */
+.guide .pricing-column .interval {
+  display: block;
+  display: block;
+  padding-bottom: 17px;
+  min-height: 38px;
+  color: #999999;
+}
+/* line 232, ../sass/modules/_guide.scss */
+.guide .pricing-column ul {
+  margin-left: 0px;
+  margin-top: 10px;
+}
+/* line 236, ../sass/modules/_guide.scss */
+.guide .pricing-column .btn {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+/* line 240, ../sass/modules/_guide.scss */
+.guide .pricing-column.highlight .btn {
+  margin-bottom: 10px;
+}
+/* line 243, ../sass/modules/_guide.scss */
+.guide .pricing-table.six-cols > div {
+  width: 16.5%;
+}
+/* line 246, ../sass/modules/_guide.scss */
+.guide .pricing-table.five-cols > div {
+  width: 20%;
+}
+/* line 249, ../sass/modules/_guide.scss */
+.guide .pricing-table.four-cols > div {
+  width: 25%;
+}
+/* line 252, ../sass/modules/_guide.scss */
+.guide .pricing-table.three-cols > div {
+  width: 33.2%;
+}
+/* line 255, ../sass/modules/_guide.scss */
+.guide .pricing-table.two-cols > div {
+  width: 50%;
+}
+/* line 259, ../sass/modules/_guide.scss */
+.guide .pricing-column.highlight h3 {
+  /*	background-color: #0a72f5 !important;	
+  	color: #fff;*/
 }

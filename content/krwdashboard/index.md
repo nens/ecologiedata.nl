@@ -6,7 +6,7 @@ title = "KRW Dashboard"
 
 ## <a name="algemeen"></a>KRW Dashboard
 
-<i class="fa fa-download"></i>&nbsp;<a href="../files/KRW-Showcase.pdf">Productblad</a>
+<i class="fa fa-download"></i>&nbsp;<a href="../files/Informatieblad-KRW.pdf">Informatieblad</a>
 
 <img src="../../images/screenshot-krw-kpi.jpg" width="60%" style="margin:0 0 20px 20px;" class="pull-right img-responsive img-thumbnail">
 

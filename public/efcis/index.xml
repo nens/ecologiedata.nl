@@ -19,7 +19,7 @@
 
 &lt;h2 id=&#34;a-name-algemeen-a-efcis:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;algemeen&#34;&gt;&lt;/a&gt;EFCIS&lt;/h2&gt;
 
-&lt;p&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;&lt;a href=&#34;../files/EFCIS-Showcase.pdf&#34;&gt;Productblad&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;&lt;a href=&#34;../files/Informatieblad-EFCIS.pdf&#34;&gt;Informatieblad&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;EFCIS is een gebruiksvriendelijke webapplicatie die specifiek is ontwikkeld voor de opslag, beheer, ontsluiting en analyse van ecologische en fysisch-chemische waterkwaliteitsgegevens.&lt;/p&gt;
 
@@ -72,6 +72,93 @@
 
 &lt;li&gt;&lt;p&gt;Koppelingen met IRIS, GIS, KRW portaal, NDFF, Document Managers zijn mogelijk&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;a-href-implementatie-a-implementatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;implementatie&#34;&gt;&lt;/a&gt;Implementatie&lt;/h2&gt;
+
+&lt;p&gt;Om EFCIS in uw organisatie te kunnen gebruiken zien wij de onderstaande stappen (implementatietraject):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Verkenning wensen&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Opzetten EFCIS database en webapplicatie (met eigen URL)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Configuratie systeem (aanmaken gebruikers, meetnetten, parametergroepen, mappings)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Importeren data&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ontwikkelen nieuwe functionaliteiten (optioneel)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Controle implementatie + goedkeuring door klant&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Oplevering&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Opleiding&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Start Beheer &amp;amp; Onderhoud contract&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;De prijs die wij vragen voor deze eenmalige inrichting van het systeem is afhankelijk van de specifieke wensen en eisen van de opdrachtgever. Ter indicatie zal dit bedrag ergens tussen de €25.000 en €50.000 liggen (hieraan kunnen geen rechten worden ontleend).&lt;/p&gt;
+
+&lt;p&gt;EFCIS is open source software en is vrijgegeven onder GPL v3 licentie. Hierdoor zit u niet vast aan ons als leverancier voor het implementeren en/of doorontwikkelen van de software.&lt;/p&gt;
+
+&lt;p&gt;EFCIS wordt aangeboden als webapplicatie. Dit is software die draait op een server en toegankelijk is via een internetbrowser. Webapplicaties hebben meerdere voordelen: Er is geen installatie op een (lokale) computer vereist. De software is zowel op kantoor als thuis en onderweg toegankelijk, vanaf elk apparaat (computer, smartphone, tablet) met een browser. Doordat zowel de software en de database op één centrale plek staan, komen er geen verschillende versies van de software en de gegevens in omloop. De gebruiker krijgt altijd de actuele stand van zaken. Onze software werkt in moderne browsers, zoals Firefox, Chrome en up-to-date versies van Internet Explorer. Deze moderne browsers zijn veilig, snel en handig in gebruik.&lt;/p&gt;
+
+&lt;p&gt;Voor het robuust en betrouwbaar leveren van de gevraagde ecologische en fysisch-chemische waterkwaliteitsgegevens met een goede performance is het nodig om een professionele hosting omgeving te hebben. Wij beschikken over een dergelijke hostingomgeving in twee datacenters die de webapplicatie kan hosten. Voor verschillende waterschappen, gemeenten, provincies en Rijkswaterstaat hosten wij webapplicaties, zoals de Nationale Overstromingdatabase, Nationale Regenradar, 3Di en diverse andere webportalen.&lt;/p&gt;
+
+&lt;p&gt;Wij bieden hosting, beheer en onderhoud van de software (database en webapplicatie) aan in abonnementsvorm. Hierdoor heeft de klant geen (verborgen) kosten aan systeembeheer, hardware en onderhoud. Daarnaast zijn de verantwoordelijkheden helder: Er is één aanspreekpunt voor alle mogelijke problemen met de webapplicatie en dat zijn wij!&lt;/p&gt;
+
+&lt;div class=&#34;col-md-12&#34;&gt;
+  &lt;div class=&#34;pricing-table three-cols&#34;&gt;
+      &lt;div class=&#34;pricing-column appear-animation fadeInLeft appear-animation-visible&#34;&gt;
+        &lt;h3&gt;Basis&lt;/h3&gt;
+        &lt;div class=&#34;pricing-column-content&#34;&gt;
+          &lt;div class=&#34;pricing-header&#34;&gt;
+            &lt;h4&gt; &lt;span class=&#34;dollar-sign&#34;&gt;€&lt;/span&gt; 6000 &lt;/h4&gt;
+            &lt;span class=&#34;interval&#34;&gt;(per maand)&lt;/span&gt; &lt;/div&gt;
+          &lt;ul class=&#34;features&#34; style=&#34;height: 165px;&#34;&gt;
+            &lt;li&gt;1 beheerdersaccount&lt;/li&gt;
+            &lt;li&gt;1 gebruikersaccount&lt;/li&gt;
+            &lt;li&gt;&lt; 0.5 miljoen waarnemingen&lt;/li&gt;
+            &lt;li&gt;Achtergrondkaarten: topo, satelliet en hoog-contrast&lt;/li&gt;
+            &lt;li&gt;Geen klantspecifieke kaarten&lt;/li&gt;
+            &lt;li&gt;Basis validatiefunctionaliteit&lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;a class=&#34;btn btn-default aanvragen&#34; href=&#34;#&#34;&gt;Aanvragen »&lt;/a&gt; &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;pricing-column highlight accent-color&#34;&gt;
+        &lt;h3&gt;Standaard&lt;span class=&#34;highlight-reason&#34;&gt;Meest populair&lt;/span&gt;&lt;/h3&gt;
+        &lt;div class=&#34;pricing-column-content&#34;&gt;
+          &lt;div class=&#34;pricing-header&#34;&gt;
+            &lt;h4&gt; &lt;span class=&#34;dollar-sign&#34;&gt;€&lt;/span&gt; 10.000 &lt;/h4&gt;
+            &lt;span class=&#34;interval&#34;&gt;(per maand)&lt;/span&gt; &lt;/div&gt;
+          &lt;ul class=&#34;features&#34; style=&#34;height: 165px;&#34;&gt;
+            &lt;li&gt;&lt;small&gt;Extra t.o.v. basis:&lt;/small&gt;&lt;/li&gt;
+            &lt;li&gt;2 beheerdersaccounts&lt;/li&gt;
+            &lt;li&gt;10 gebruikersaccounts&lt;/li&gt;
+            &lt;li&gt;0.5 - 2 miljoen waarnemingen&lt;/li&gt;
+            &lt;li&gt;2 Klantspecifieke kaarten&lt;/li&gt;
+            &lt;li&gt;Uitgebreide validatiefunctionaliteit&lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;a style=&#34;margin:70px 0 0 0;&#34; class=&#34;aanvragen btn btn-default btn-lg&#34; href=&#34;#&#34;&gt;Aanvragen »&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&#34;pricing-column appear-animation fadeInRight appear-animation-visible&#34; data-appear-animation=&#34;fadeInRight&#34; data-appear-animation-delay=&#34;1&#34;&gt;
+        &lt;h3&gt;Professioneel&lt;/h3&gt;
+        &lt;div class=&#34;pricing-column-content&#34;&gt;
+          &lt;div class=&#34;pricing-header&#34;&gt;
+            &lt;h4&gt;&lt;span class=&#34;dollar-sign&#34;&gt;€&lt;/span&gt; 14.000 &lt;/h4&gt;
+            &lt;span class=&#34;interval&#34;&gt;(vanaf, per maand)&lt;/span&gt; &lt;/div&gt;
+          &lt;ul class=&#34;features&#34; style=&#34;height: 165px;&#34;&gt;
+            &lt;li&gt;&lt;small&gt;Extra t.o.v. basis:&lt;/small&gt;&lt;/li&gt;
+            &lt;li&gt;5+ beheerdersaccounts&lt;/li&gt;
+            &lt;li&gt;10+ gebruikersaccounts&lt;/li&gt;
+            &lt;li&gt;&gt; 2 miljoen waarnemingen&lt;/li&gt;
+            &lt;li&gt;3+ Klantspecifieke kaarten&lt;/li&gt;
+            &lt;li&gt;Uitgebreide validatiefunctionaliteit&lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;a class=&#34;btn btn-default aanvragen&#34; href=&#34;#&#34;&gt;Aanvragen »&lt;/a&gt; &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;a-name-instructiefilms-a-instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;instructiefilms&#34;&gt;&lt;/a&gt;Instructiefilms&lt;/h2&gt;
 
