@@ -7,11 +7,11 @@
 	}
 
 	.logo {
-		width: 728px;
+		width: 420px;
 		height: 100px;
-		background-size: cover;
-
-		background-image: url('../images/efcis-logo.svg');
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-image: url('../images/efcis-logo.png');
 	}
 
 	h1 {
