@@ -9074,11 +9074,16 @@ blockquote p {
   list-style-type: disc;
   list-style-position: inside;
 }
-/* line 119, ../sass/modules/_guide.scss */
+/* line 116, ../sass/modules/_guide.scss */
+.guide ul li p {
+  margin: 5px 0 5px 0;
+  display: inline;
+}
+/* line 123, ../sass/modules/_guide.scss */
 .guide .pricing-table {
   margin: 100px 0;
 }
-/* line 122, ../sass/modules/_guide.scss */
+/* line 126, ../sass/modules/_guide.scss */
 .guide .pricing-table:after {
   display: block;
   visibility: hidden;
@@ -9086,11 +9091,11 @@ blockquote p {
   height: 0;
   content: "";
 }
-/* line 129, ../sass/modules/_guide.scss */
+/* line 133, ../sass/modules/_guide.scss */
 .guide .pricing-table > div:first-child .pricing-column-content, .guide .pricing-table > div:first-child h3 {
   border-left: 1px solid #eeeeee !important;
 }
-/* line 132, ../sass/modules/_guide.scss */
+/* line 136, ../sass/modules/_guide.scss */
 .guide .pricing-column {
   float: left;
   overflow: hidden;
@@ -9102,19 +9107,19 @@ blockquote p {
   -o-transition: box-shadow 0.2s linear;
   transition: box-shadow 0.2s linear;
 }
-/* line 143, ../sass/modules/_guide.scss */
+/* line 147, ../sass/modules/_guide.scss */
 .guide .pricing-column .features {
   padding: 0;
   margin-bottom: 0;
   background: none;
 }
-/* line 148, ../sass/modules/_guide.scss */
+/* line 152, ../sass/modules/_guide.scss */
 .guide .pricing-column .pricing-column-content {
   padding: 0px 0px 20px 0px;
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
 }
-/* line 154, ../sass/modules/_guide.scss */
+/* line 158, ../sass/modules/_guide.scss */
 .guide .pricing-column.highlight {
   position: relative;
   z-index: 100;
@@ -9125,21 +9130,21 @@ blockquote p {
   box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
   -o-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.09);
 }
-/* line 164, ../sass/modules/_guide.scss */
+/* line 168, ../sass/modules/_guide.scss */
 .guide .pricing-column.highlight.accent-color h3 {
   margin-top: 14px !important;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #eee;
 }
-/* line 169, ../sass/modules/_guide.scss */
+/* line 173, ../sass/modules/_guide.scss */
 .guide .pricing-column.highlight.accent-color h3 .highlight-reason {
   color: #845F8C;
 }
-/* line 172, ../sass/modules/_guide.scss */
+/* line 176, ../sass/modules/_guide.scss */
 .guide .pricing-column.highlight .pricing-column-content, .guide .pricing-column.highlight h3 {
   border: none;
 }
-/* line 176, ../sass/modules/_guide.scss */
+/* line 180, ../sass/modules/_guide.scss */
 .guide .pricing-column.highlight h3 .highlight-reason {
   display: block;
   color: rgba(0, 0, 0, 0.4);
@@ -9147,32 +9152,32 @@ blockquote p {
   letter-spacing: 1.5px;
   font-size: 12px;
 }
-/* line 183, ../sass/modules/_guide.scss */
+/* line 187, ../sass/modules/_guide.scss */
 .guide .pricing-column.highlight .pricing-column-content {
   border-right: 1px solid #eeeeee;
   border-bottom: 1px solid #eeeeee;
   border-left: 1px solid #eeeeee;
 }
-/* line 188, ../sass/modules/_guide.scss */
+/* line 192, ../sass/modules/_guide.scss */
 .guide .pricing-column.highlight:hover {
   -webkit-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.15);
   -moz-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.15);
   box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.15);
   -o-box-shadow: 0px 0px 13px rgba(0, 0, 0, 0.15);
 }
-/* line 194, ../sass/modules/_guide.scss */
+/* line 198, ../sass/modules/_guide.scss */
 .guide .pricing-column ul li {
   padding: 5px 25px;
   color: #666666 !important;
   list-style: none;
   line-height: 18px;
 }
-/* line 200, ../sass/modules/_guide.scss */
+/* line 204, ../sass/modules/_guide.scss */
 .guide .pricing-column.highlight h3 {
   margin-bottom: 0px !important;
   padding: 15px 0px;
 }
-/* line 204, ../sass/modules/_guide.scss */
+/* line 208, ../sass/modules/_guide.scss */
 .guide .pricing-column h3 {
   margin-bottom: 0px;
   padding: 18px 0px 18px 0px;
@@ -9183,11 +9188,11 @@ blockquote p {
   font-size: 26px;
   line-height: 28px;
 }
-/* line 214, ../sass/modules/_guide.scss */
+/* line 218, ../sass/modules/_guide.scss */
 .guide .pricing-column .pricing-header {
   background-color: #f8f8f8;
 }
-/* line 217, ../sass/modules/_guide.scss */
+/* line 221, ../sass/modules/_guide.scss */
 .guide .pricing-column h4 {
   margin-bottom: 0px;
   margin-left: -22px;
@@ -9197,7 +9202,7 @@ blockquote p {
   line-height: 42px !important;
   font-weight: 700;
 }
-/* line 226, ../sass/modules/_guide.scss */
+/* line 230, ../sass/modules/_guide.scss */
 .guide .pricing-column h4 .dollar-sign {
   position: relative;
   top: -14px;
@@ -9205,7 +9210,7 @@ blockquote p {
   font-size: 22px;
   line-height: 22px;
 }
-/* line 233, ../sass/modules/_guide.scss */
+/* line 237, ../sass/modules/_guide.scss */
 .guide .pricing-column .interval {
   display: block;
   display: block;
@@ -9213,41 +9218,41 @@ blockquote p {
   min-height: 38px;
   color: #999999;
 }
-/* line 240, ../sass/modules/_guide.scss */
+/* line 244, ../sass/modules/_guide.scss */
 .guide .pricing-column ul {
   margin-left: 0px;
   margin-top: 10px;
 }
-/* line 244, ../sass/modules/_guide.scss */
+/* line 248, ../sass/modules/_guide.scss */
 .guide .pricing-column .btn {
   margin-top: 25px;
   margin-bottom: 10px;
 }
-/* line 248, ../sass/modules/_guide.scss */
+/* line 252, ../sass/modules/_guide.scss */
 .guide .pricing-column.highlight .btn {
   margin-bottom: 10px;
 }
-/* line 251, ../sass/modules/_guide.scss */
+/* line 255, ../sass/modules/_guide.scss */
 .guide .pricing-table.six-cols > div {
   width: 16.5%;
 }
-/* line 254, ../sass/modules/_guide.scss */
+/* line 258, ../sass/modules/_guide.scss */
 .guide .pricing-table.five-cols > div {
   width: 20%;
 }
-/* line 257, ../sass/modules/_guide.scss */
+/* line 261, ../sass/modules/_guide.scss */
 .guide .pricing-table.four-cols > div {
   width: 25%;
 }
-/* line 260, ../sass/modules/_guide.scss */
+/* line 264, ../sass/modules/_guide.scss */
 .guide .pricing-table.three-cols > div {
   width: 33.2%;
 }
-/* line 263, ../sass/modules/_guide.scss */
+/* line 267, ../sass/modules/_guide.scss */
 .guide .pricing-table.two-cols > div {
   width: 50%;
 }
-/* line 267, ../sass/modules/_guide.scss */
+/* line 271, ../sass/modules/_guide.scss */
 .guide .pricing-column.highlight h3 {
   /*	background-color: #0a72f5 !important;	
   	color: #fff;*/
