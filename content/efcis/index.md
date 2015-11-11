@@ -107,7 +107,7 @@ Wij bieden hosting, beheer en onderhoud van de software (database en webapplicat
         <h3>Basis</h3>
         <div class="pricing-column-content">
           <div class="pricing-header">
-            <h4> <span class="dollar-sign">€</span> 6000 </h4>
+            <h4> <span class="dollar-sign">€</span> 6.000 </h4>
             <span class="interval">(per maand)</span> </div>
           <ul class="features" style="height: 165px;">
             <li>1 beheerdersaccount</li>
