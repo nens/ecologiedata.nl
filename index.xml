@@ -10,6 +10,30 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Instructiefilms</title>
+      <link>/efcis/instructiefilms/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>/efcis/instructiefilms/</guid>
+      <description>
+
+&lt;h2 id=&#34;instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Instructiefilms&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Korte versie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/DDIV0ctuktQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lange versie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MAPoOGi6SMA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kenmerken</title>
       <link>/efcis/kenmerken/</link>
       <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
@@ -93,30 +117,6 @@ Wij denken actief met u mij bij het opstellen van meetplannen en kunnen u in de 
 
 &lt;p&gt;Soms komt u tijd te kort om alles dat op uw bordje ligt af te krijgen. Daardoor blijven sommige zaken gewoon liggen. Vaak zijn dit ‘klussen’ waarvoor u idealiter hele dagen of dagdelen zou moeten kunnen blokken. Door geplande en ongeplande overleggen is dat een utopie.
 Door middel van een detachering kunt u dit soort ‘klussen’ overdragen aan iemand anders en toch een vinger aan de pols houden bij de uitvoering. Wij staan open voor detacheringsvragen.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Instructiefilms</title>
-      <link>/efcis/instructiefilms/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/efcis/instructiefilms/</guid>
-      <description>
-
-&lt;h2 id=&#34;instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Instructiefilms&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Korte versie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/DDIV0ctuktQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lange versie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MAPoOGi6SMA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
@@ -224,7 +224,7 @@ Door middel van een detachering kunt u dit soort ‘klussen’ overdragen aan ie
         &lt;h3&gt;Basis&lt;/h3&gt;
         &lt;div class=&#34;pricing-column-content&#34;&gt;
           &lt;div class=&#34;pricing-header&#34;&gt;
-            &lt;h4&gt; &lt;span class=&#34;dollar-sign&#34;&gt;€&lt;/span&gt; 6.000 &lt;/h4&gt;
+            &lt;h4&gt; &lt;span class=&#34;dollar-sign&#34;&gt;€&lt;/span&gt; 500 &lt;/h4&gt;
             &lt;span class=&#34;interval&#34;&gt;(per maand)&lt;/span&gt; &lt;/div&gt;
           &lt;ul class=&#34;features&#34; style=&#34;height: 165px;&#34;&gt;
             &lt;li&gt;1 beheerdersaccount&lt;/li&gt;
@@ -240,7 +240,7 @@ Door middel van een detachering kunt u dit soort ‘klussen’ overdragen aan ie
         &lt;h3&gt;Standaard&lt;span class=&#34;highlight-reason&#34;&gt;Meest populair&lt;/span&gt;&lt;/h3&gt;
         &lt;div class=&#34;pricing-column-content&#34;&gt;
           &lt;div class=&#34;pricing-header&#34;&gt;
-            &lt;h4&gt; &lt;span class=&#34;dollar-sign&#34;&gt;€&lt;/span&gt; 10.000 &lt;/h4&gt;
+            &lt;h4&gt; &lt;span class=&#34;dollar-sign&#34;&gt;€&lt;/span&gt; 800 &lt;/h4&gt;
             &lt;span class=&#34;interval&#34;&gt;(per maand)&lt;/span&gt; &lt;/div&gt;
           &lt;ul class=&#34;features&#34; style=&#34;height: 165px;&#34;&gt;
             &lt;li&gt;&lt;small&gt;Extra t.o.v. basis:&lt;/small&gt;&lt;/li&gt;
@@ -256,7 +256,7 @@ Door middel van een detachering kunt u dit soort ‘klussen’ overdragen aan ie
         &lt;h3&gt;Professioneel&lt;/h3&gt;
         &lt;div class=&#34;pricing-column-content&#34;&gt;
           &lt;div class=&#34;pricing-header&#34;&gt;
-            &lt;h4&gt;&lt;span class=&#34;dollar-sign&#34;&gt;€&lt;/span&gt; 14.000 &lt;/h4&gt;
+            &lt;h4&gt;&lt;span class=&#34;dollar-sign&#34;&gt;€&lt;/span&gt; 1200 &lt;/h4&gt;
             &lt;span class=&#34;interval&#34;&gt;(vanaf, per maand)&lt;/span&gt; &lt;/div&gt;
           &lt;ul class=&#34;features&#34; style=&#34;height: 165px;&#34;&gt;
             &lt;li&gt;&lt;small&gt;Extra t.o.v. basis:&lt;/small&gt;&lt;/li&gt;
@@ -302,6 +302,20 @@ Door middel van een detachering kunt u dit soort ‘klussen’ overdragen aan ie
     </item>
     
     <item>
+      <title>Aanleiding</title>
+      <link>/krwdashboard/aanleiding/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>/krwdashboard/aanleiding/</guid>
+      <description>
+
+&lt;h2 id=&#34;aanleiding:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aanleiding&lt;/h2&gt;
+
+&lt;p&gt;Rijkswaterstaat heeft Nelen &amp;amp; Schuurmans gevraagd hun visie op visualisatie van ecologische en fysisch-chemische waterkwaliteitsinformatie uit te werken. Hieraan hebben we invulling gegeven door een KRW Dashboard in te richten. Dit KRW Dashboard is een prototype en is gevuld met gegevens uit het KRW portaal en met dummy data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>KRW Dashboard</title>
       <link>/krwdashboard/</link>
       <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
@@ -324,20 +338,6 @@ Door middel van een detachering kunt u dit soort ‘klussen’ overdragen aan ie
 &lt;h2 id=&#34;a-name-impressie-a-impressie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;impressie&#34;&gt;&lt;/a&gt;Impressie&lt;/h2&gt;
 
 &lt;p&gt;(volgt)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Aanleiding</title>
-      <link>/krwdashboard/aanleiding/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/krwdashboard/aanleiding/</guid>
-      <description>
-
-&lt;h2 id=&#34;aanleiding:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aanleiding&lt;/h2&gt;
-
-&lt;p&gt;Rijkswaterstaat heeft Nelen &amp;amp; Schuurmans gevraagd hun visie op visualisatie van ecologische en fysisch-chemische waterkwaliteitsinformatie uit te werken. Hieraan hebben we invulling gegeven door een KRW Dashboard in te richten. Dit KRW Dashboard is een prototype en is gevuld met gegevens uit het KRW portaal en met dummy data.&lt;/p&gt;
 </description>
     </item>
     
