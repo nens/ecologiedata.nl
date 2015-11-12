@@ -8,17 +8,7 @@
   </url>
   
   <url>
-    <loc>/efcis/</loc>
-    <lastmod>2015-10-30T10:10:15+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/advies/</loc>
-    <lastmod>2015-10-30T10:10:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/efcis/instructiefilms/</loc>
     <lastmod>2015-10-30T10:10:15+01:00</lastmod>
   </url>
   
@@ -28,12 +18,22 @@
   </url>
   
   <url>
+    <loc>/efcis/instructiefilms/</loc>
+    <lastmod>2015-10-30T10:10:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/efcis/</loc>
+    <lastmod>2015-10-30T10:10:15+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/efcis/kenmerken/</loc>
     <lastmod>2015-10-30T10:10:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/krwdashboard/impressie/</loc>
+    <loc>/efcis/opbouw/</loc>
     <lastmod>2015-10-30T10:10:15+01:00</lastmod>
   </url>
   
@@ -43,12 +43,12 @@
   </url>
   
   <url>
-    <loc>/krwdashboard/</loc>
+    <loc>/krwdashboard/impressie/</loc>
     <lastmod>2015-10-30T10:10:15+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/efcis/opbouw/</loc>
+    <loc>/krwdashboard/</loc>
     <lastmod>2015-10-30T10:10:15+01:00</lastmod>
   </url>
   
