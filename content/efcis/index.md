@@ -89,7 +89,7 @@ Om EFCIS in uw organisatie te kunnen gebruiken zien wij de onderstaande stappen 
  
  * Start Beheer & Onderhoud contract
 
- De prijs die wij vragen voor deze eenmalige inrichting van het systeem is afhankelijk van de specifieke wensen en eisen van de opdrachtgever. Ter indicatie zal dit bedrag ergens tussen de €25.000 en €50.000 liggen (hieraan kunnen geen rechten worden ontleend).
+ De prijs die wij vragen voor deze eenmalige inrichting van het systeem is afhankelijk van de specifieke wensen en eisen van de opdrachtgever.
 
 EFCIS is open source software en is vrijgegeven onder GPL v3 licentie. Hierdoor zit u niet vast aan ons als leverancier voor het implementeren en/of doorontwikkelen van de software. 
 
