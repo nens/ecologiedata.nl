@@ -13,25 +13,9 @@ EFCIS is een gebruiksvriendelijke webapplicatie die specifiek is ontwikkeld voor
 
 Hierdoor worden de databeheerders ontzorgd én worden de (beleids-)adviseurs ecologie en waterkwaliteit gefaciliteerd om meer met de monitoringsgegevens te kunnen gaan doen.
 
+Met EFCIS richten we ons op een gebruiksvriendelijke toepassing die volledig geschikt is voor het doel: Ecologische en fysisch-chemische data importeren, valideren, bewerken, visualiseren en exporteren.
 
-
-
-## <a name="opbouw"></a>Opbouw
-
-<img src="../images/modulairebouw.png" width="60%" style="margin:0 0 20px 20px;" class="pull-right img-responsive img-thumbnail">
-
-Met EFCIS richten we ons op een gebruiksvriendelijke toepassing die volledig geschikt is voor het doel: Ecologische en fysisch-chemische data importeren, valideren, bewerken, visualiseren en exporteren. 
-
-In de opzet van de webapplicatie maken we onderscheid in de twee ingangen om met data te werken: Visualisatie en databeheer. Beide ingangen ‘pluggen in’ op de achterliggende database (middels een API). 
-
-Door deze modulaire opbouw wordt het mogelijk om op meerdere bronnen ‘in te pluggen’, waardoor automatische koppelingen met andere systemen (bijvoorbeeld waterkwantiteit of toetsingsmodules) ontwikkeld kunnen worden. 
-
-De visualisatie van gegevens is georganiseerd in drie schermen, t.w. Tabelscherm, Kaartscherm en Grafiekscherm. De database is specifiek ingericht om met dit soort data en bijbehorende metadata te werken.
-
-
-
-
-## <a name="kenmerken"></a>Overzicht van de kenmerken
+## <a name="kenmerken"></a>Kenmerken
 
 
 * Geschikt en ingericht voor ecologische gegevens zoals macrofyten, macrofauna, fytoplankton en vis
@@ -43,8 +27,6 @@ De visualisatie van gegevens is georganiseerd in drie schermen, t.w. Tabelscherm
 * Sluit aan bij de Aquo standaarden (Aquo DS) en de soortenlijst vanuit de TWN
 
 * Numerieke en alfanumerieke waarden zijn mogelijk
-
-* EFCIS wordt niet lokaal geïnstalleerd, maar is een cloud-oplossing die overal en altijd toegankelijk is via een moderne webbrowser
 
 * Meerdere (50+) gelijktijdige gebruikers mogelijk zonder performance verlies
 
@@ -60,12 +42,23 @@ De visualisatie van gegevens is georganiseerd in drie schermen, t.w. Tabelscherm
 
 * Geschikt voor vismonitoring, want EFCIS is ingericht voor het opnemen van bemonsterd oppervlak en de lengte en gewicht van de vis
 
-* Bij EFCIS staat het gebruik centraal. Dus geen gedoe met installatie.
+* EFCIS wordt niet lokaal geïnstalleerd. Het is een cloud-oplossing die overal en altijd toegankelijk is via een moderne webbrowser. Dus geen gedoe met installatie.
 
-* Volledig open source ontwikkeling (dus niet alleen open data, open standaarden, maar volledige source code is beschikbaar)
+* Volledig open source ontwikkeling vrijgegevens onder GPL v3 licentie (dus niet alleen open data, open standaarden, maar volledige source code is beschikbaar)
 
 * Koppelingen met IRIS, GIS, KRW portaal, NDFF, Document Managers zijn mogelijk
 
+
+
+## <a name="opbouw"></a>Software
+
+EFCIS wordt aangeboden als webapplicatie. Dit is software die draait op een server en toegankelijk is via een internetbrowser.
+
+Webapplicaties hebben meerdere voordelen: Er is geen installatie op een (lokale) computer vereist. De software is zowel op kantoor als thuis en onderweg toegankelijk, vanaf elk apparaat (computer, smartphone, tablet) met een browser. Doordat zowel de software en de database op één centrale plek staan, komen er geen verschillende versies van de software en de gegevens in omloop. De gebruiker krijgt altijd de actuele stand van zaken. Onze software werkt in moderne browsers, zoals Firefox, Chrome en up-to-date versies van Internet Explorer. Deze moderne browsers zijn veilig, snel en handig in gebruik.
+
+In de EFCIS webapplicatie zitten twee ingangen om met data te werken: Datavisualisatie en databeheer. Beide ingangen ‘pluggen in’ op de achterliggende database (middels een API). Door deze modulaire opbouw wordt het mogelijk om op meerdere bronnen ‘in te pluggen’, waardoor automatische koppelingen met andere systemen (bijvoorbeeld waterkwantiteit of toetsingsmodules) ontwikkeld kunnen worden.
+
+<img src="../images/modulairebouw.png" width="60%" style="margin:0 0 20px 20px;" class="pull-right img-responsive img-thumbnail">
 
 ## <a href="implementatie"></a>Implementatie
 
@@ -89,17 +82,11 @@ Om EFCIS in uw organisatie te kunnen gebruiken zien wij de onderstaande stappen 
  
  * Start Beheer & Onderhoud contract
 
- De prijs die wij vragen voor deze eenmalige inrichting van het systeem is afhankelijk van de specifieke wensen en eisen van de opdrachtgever.
+ De prijs die wij vragen voor deze eenmalige inrichting van het systeem is afhankelijk van de specifieke wensen en eisen van de opdrachtgever. Neem hiervoor contact met ons op.
 
-EFCIS is open source software en is vrijgegeven onder GPL v3 licentie. Hierdoor zit u niet vast aan ons als leverancier voor het implementeren en/of doorontwikkelen van de software. 
-
-EFCIS wordt aangeboden als webapplicatie. Dit is software die draait op een server en toegankelijk is via een internetbrowser. Webapplicaties hebben meerdere voordelen: Er is geen installatie op een (lokale) computer vereist. De software is zowel op kantoor als thuis en onderweg toegankelijk, vanaf elk apparaat (computer, smartphone, tablet) met een browser. Doordat zowel de software en de database op één centrale plek staan, komen er geen verschillende versies van de software en de gegevens in omloop. De gebruiker krijgt altijd de actuele stand van zaken. Onze software werkt in moderne browsers, zoals Firefox, Chrome en up-to-date versies van Internet Explorer. Deze moderne browsers zijn veilig, snel en handig in gebruik.
-
-Voor het robuust en betrouwbaar leveren van de gevraagde ecologische en fysisch-chemische waterkwaliteitsgegevens met een goede performance is het nodig om een professionele hosting omgeving te hebben. Wij beschikken over een dergelijke hostingomgeving in twee datacenters die de webapplicatie kan hosten. Voor verschillende waterschappen, gemeenten, provincies en Rijkswaterstaat hosten wij webapplicaties, zoals de Nationale Overstromingdatabase, Nationale Regenradar, 3Di en diverse andere webportalen. 
+Voor het robuust en betrouwbaar leveren van de gevraagde ecologische en fysisch-chemische waterkwaliteitsgegevens met een goede performance is het nodig om een professionele hosting omgeving te hebben. Wij beschikken over een dergelijke hostingomgeving in twee datacenters die de webapplicatie kan hosten. Voor verschillende waterschappen, gemeenten, provincies en Rijkswaterstaat hosten wij webapplicaties, zoals de Nationale Overstromingdatabase, Nationale Regenradar, 3Di en diverse andere webportalen.
 
 Wij bieden hosting, beheer en onderhoud van de software (database en webapplicatie) aan in abonnementsvorm. Hierdoor heeft de klant geen (verborgen) kosten aan systeembeheer, hardware en onderhoud. Daarnaast zijn de verantwoordelijkheden helder: Er is één aanspreekpunt voor alle mogelijke problemen met de webapplicatie en dat zijn wij!
-
-
 
 <div class="col-md-12">
   <div class="pricing-table three-cols">
