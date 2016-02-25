@@ -50,16 +50,16 @@ Met EFCIS richten we ons op een gebruiksvriendelijke toepassing die volledig ges
 
 
 
-## <a name="opbouw"></a>Software
+## <a name="software"></a>Software
 
 EFCIS wordt aangeboden als webapplicatie. Dit is software die draait op een server en toegankelijk is via een internetbrowser.
 
 Webapplicaties hebben meerdere voordelen: Er is geen installatie op een (lokale) computer vereist. De software is zowel op kantoor als thuis en onderweg toegankelijk, vanaf elk apparaat (computer, smartphone, tablet) met een browser. Doordat zowel de software en de database op één centrale plek staan, komen er geen verschillende versies van de software en de gegevens in omloop. De gebruiker krijgt altijd de actuele stand van zaken. Onze software werkt in moderne browsers, zoals Firefox, Chrome en up-to-date versies van Internet Explorer. Deze moderne browsers zijn veilig, snel en handig in gebruik.
 
 In de EFCIS webapplicatie zitten twee ingangen om met data te werken: Datavisualisatie en databeheer. Beide ingangen ‘pluggen in’ op de achterliggende database (middels een API). Door deze modulaire opbouw wordt het mogelijk om op meerdere bronnen ‘in te pluggen’, waardoor automatische koppelingen met andere systemen (bijvoorbeeld waterkwantiteit of toetsingsmodules) ontwikkeld kunnen worden.
-
+<br/>
 <img src="../images/modulairebouw.png" width="60%" style="margin:0 0 20px 20px;" class="pull-right img-responsive img-thumbnail">
-
+<br/>
 ## <a href="implementatie"></a>Implementatie
 
 Om EFCIS in uw organisatie te kunnen gebruiken zien wij de onderstaande stappen (implementatietraject):
