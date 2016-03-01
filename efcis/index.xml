@@ -61,15 +61,16 @@
 &lt;li&gt;&lt;p&gt;Koppelingen met IRIS, GIS, KRW portaal, NDFF, Document Managers zijn mogelijk&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;a-name-opbouw-a-software:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;opbouw&#34;&gt;&lt;/a&gt;Software&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-software-a-software:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;software&#34;&gt;&lt;/a&gt;Software&lt;/h2&gt;
 
 &lt;p&gt;EFCIS wordt aangeboden als webapplicatie. Dit is software die draait op een server en toegankelijk is via een internetbrowser.&lt;/p&gt;
 
 &lt;p&gt;Webapplicaties hebben meerdere voordelen: Er is geen installatie op een (lokale) computer vereist. De software is zowel op kantoor als thuis en onderweg toegankelijk, vanaf elk apparaat (computer, smartphone, tablet) met een browser. Doordat zowel de software en de database op één centrale plek staan, komen er geen verschillende versies van de software en de gegevens in omloop. De gebruiker krijgt altijd de actuele stand van zaken. Onze software werkt in moderne browsers, zoals Firefox, Chrome en up-to-date versies van Internet Explorer. Deze moderne browsers zijn veilig, snel en handig in gebruik.&lt;/p&gt;
 
-&lt;p&gt;In de EFCIS webapplicatie zitten twee ingangen om met data te werken: Datavisualisatie en databeheer. Beide ingangen ‘pluggen in’ op de achterliggende database (middels een API). Door deze modulaire opbouw wordt het mogelijk om op meerdere bronnen ‘in te pluggen’, waardoor automatische koppelingen met andere systemen (bijvoorbeeld waterkwantiteit of toetsingsmodules) ontwikkeld kunnen worden.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/modulairebouw.png&#34; width=&#34;60%&#34; style=&#34;margin:0 0 20px 20px;&#34; class=&#34;pull-right img-responsive img-thumbnail&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In de EFCIS webapplicatie zitten twee ingangen om met data te werken: Datavisualisatie en databeheer. Beide ingangen ‘pluggen in’ op de achterliggende database (middels een API). Door deze modulaire opbouw wordt het mogelijk om op meerdere bronnen ‘in te pluggen’, waardoor automatische koppelingen met andere systemen (bijvoorbeeld waterkwantiteit of toetsingsmodules) ontwikkeld kunnen worden.
+&lt;br/&gt;
+&lt;img src=&#34;../images/modulairebouw.png&#34; width=&#34;60%&#34; style=&#34;margin:0 0 20px 20px;&#34; class=&#34;pull-right img-responsive img-thumbnail&#34;&gt;
+&lt;br/&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;a-href-implementatie-a-implementatie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a href=&#34;implementatie&#34;&gt;&lt;/a&gt;Implementatie&lt;/h2&gt;
 
@@ -156,9 +157,37 @@
 
 &lt;h2 id=&#34;a-name-instructiefilms-a-instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;instructiefilms&#34;&gt;&lt;/a&gt;Instructiefilms&lt;/h2&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/DDIV0ctuktQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/onCcXA_a9RM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MAPoOGi6SMA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/IbJZZjoh_-M&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/EEOLlhR3XSA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/V2pSDQIqeLM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/hgigmciKpiM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/5boOdarfdco&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/o-7mgCPUOh8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/9ToDORjWAvY&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/lKM9YZG-F6U&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/sedk_WDfHzw&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/LlU7-tDTht8&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Wj-CBGd0InE&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/VtSVdZ7RIvc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/iZyfsCnkpZM&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/b7b9ltmsUj0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/6yuOZfMcESc&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;!-- &lt;img src=&#34;../images/screenshot-efcis.jpg&#34; width=&#34;75%&#34; class=&#34;img-responsive img-thumbnail&#34;&gt; --&gt;
 </description>
