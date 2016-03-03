@@ -10,6 +10,30 @@
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Instructiefilms</title>
+      <link>/efcis/instructiefilms/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>/efcis/instructiefilms/</guid>
+      <description>
+
+&lt;h2 id=&#34;instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Instructiefilms&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Korte versie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/DDIV0ctuktQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Lange versie&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MAPoOGi6SMA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Advies</title>
       <link>/advies/</link>
       <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
@@ -47,45 +71,6 @@ Wij denken actief met u mij bij het opstellen van meetplannen en kunnen u in de 
 
 &lt;p&gt;Soms komt u tijd te kort om alles dat op uw bordje ligt af te krijgen. Daardoor blijven sommige zaken gewoon liggen. Vaak zijn dit ‘klussen’ waarvoor u idealiter hele dagen of dagdelen zou moeten kunnen blokken. Door geplande en ongeplande overleggen is dat een utopie.
 Door middel van een detachering kunt u dit soort ‘klussen’ overdragen aan iemand anders en toch een vinger aan de pols houden bij de uitvoering. Wij staan open voor detacheringsvragen.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Instructiefilms</title>
-      <link>/efcis/instructiefilms/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/efcis/instructiefilms/</guid>
-      <description>
-
-&lt;h2 id=&#34;instructiefilms:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Instructiefilms&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Korte versie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/DDIV0ctuktQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Lange versie&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MAPoOGi6SMA&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>
-
-&lt;h2 id=&#34;contact:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Contact&lt;/h2&gt;
-
-&lt;p&gt;Voor vragen over EFCIS of het KRW Dashboard neemt u contact op via &lt;a href=&#34;mailto:info@nelen-schuurmans.nl&#34; style=&#34;color:#000;&#34;&gt;info@nelen-schuurmans.nl&lt;/a&gt; of &lt;a href=&#34;tel:+31302330200&#34; style=&#34;color:#000;&#34;&gt;030 23 30 200&lt;/a&gt;&lt;/p&gt;
-EFCIS en het KRW Dashboard zijn producten ontwikkeld door Nelen &amp;amp; Schuurmans. Op onze &lt;a href=&#34;http://www.nelen-schuurmans.nl&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; vind u meer informatie over onze werkzaamheden met betrekking tot de werkvelden Ecologie en Waterkwaliteit.&lt;/p&gt;
 </description>
     </item>
     
@@ -274,6 +259,21 @@ EFCIS en het KRW Dashboard zijn producten ontwikkeld door Nelen &amp;amp; Schuur
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>
+
+&lt;h2 id=&#34;contact:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Contact&lt;/h2&gt;
+
+&lt;p&gt;Voor vragen over EFCIS of het KRW Dashboard neemt u contact op via &lt;a href=&#34;mailto:info@nelen-schuurmans.nl&#34; style=&#34;color:#000;&#34;&gt;info@nelen-schuurmans.nl&lt;/a&gt; of &lt;a href=&#34;tel:+31302330200&#34; style=&#34;color:#000;&#34;&gt;030 23 30 200&lt;/a&gt;&lt;/p&gt;
+EFCIS en het KRW Dashboard zijn producten ontwikkeld door Nelen &amp;amp; Schuurmans. Op onze &lt;a href=&#34;http://www.nelen-schuurmans.nl&#34; target=&#34;_blank&#34;&gt;website&lt;/a&gt; vind u meer informatie over onze werkzaamheden met betrekking tot de werkvelden Ecologie en Waterkwaliteit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kenmerken</title>
       <link>/efcis/kenmerken/</link>
       <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
@@ -320,20 +320,6 @@ EFCIS en het KRW Dashboard zijn producten ontwikkeld door Nelen &amp;amp; Schuur
     </item>
     
     <item>
-      <title>Aanleiding</title>
-      <link>/krwdashboard/aanleiding/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/krwdashboard/aanleiding/</guid>
-      <description>
-
-&lt;h2 id=&#34;aanleiding:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aanleiding&lt;/h2&gt;
-
-&lt;p&gt;Rijkswaterstaat heeft Nelen &amp;amp; Schuurmans gevraagd hun visie op visualisatie van ecologische en fysisch-chemische waterkwaliteitsinformatie uit te werken. Hieraan hebben we invulling gegeven door een KRW Dashboard in te richten. Dit KRW Dashboard is een prototype en is gevuld met gegevens uit het KRW portaal en met dummy data.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Opbouw</title>
       <link>/efcis/opbouw/</link>
       <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
@@ -350,20 +336,6 @@ EFCIS en het KRW Dashboard zijn producten ontwikkeld door Nelen &amp;amp; Schuur
 &lt;p&gt;Door deze modulaire opbouw wordt het mogelijk om op meerdere bronnen ‘in te pluggen’, waardoor automatische koppelingen met andere systemen (bijvoorbeeld waterkwantiteit of toetsingsmodules) ontwikkeld kunnen worden.&lt;/p&gt;
 
 &lt;p&gt;De visualisatie van gegevens is georganiseerd in drie schermen, t.w. Tabelscherm, Kaartscherm en Grafiekscherm. De database is specifiek ingericht om met dit soort data en bijbehorende metadata te werken.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Impressie</title>
-      <link>/krwdashboard/impressie/</link>
-      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
-      
-      <guid>/krwdashboard/impressie/</guid>
-      <description>
-
-&lt;h2 id=&#34;impressie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Impressie&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;../../images/screenshot-krw-kpi.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -386,6 +358,34 @@ EFCIS en het KRW Dashboard zijn producten ontwikkeld door Nelen &amp;amp; Schuur
 &lt;h2 id=&#34;a-name-impressie-a-impressie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;impressie&#34;&gt;&lt;/a&gt;Impressie&lt;/h2&gt;
 
 &lt;p&gt;(volgt)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aanleiding</title>
+      <link>/krwdashboard/aanleiding/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>/krwdashboard/aanleiding/</guid>
+      <description>
+
+&lt;h2 id=&#34;aanleiding:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aanleiding&lt;/h2&gt;
+
+&lt;p&gt;Rijkswaterstaat heeft Nelen &amp;amp; Schuurmans gevraagd hun visie op visualisatie van ecologische en fysisch-chemische waterkwaliteitsinformatie uit te werken. Hieraan hebben we invulling gegeven door een KRW Dashboard in te richten. Dit KRW Dashboard is een prototype en is gevuld met gegevens uit het KRW portaal en met dummy data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impressie</title>
+      <link>/krwdashboard/impressie/</link>
+      <pubDate>Fri, 30 Oct 2015 10:10:15 +0100</pubDate>
+      
+      <guid>/krwdashboard/impressie/</guid>
+      <description>
+
+&lt;h2 id=&#34;impressie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Impressie&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;../../images/screenshot-krw-kpi.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
