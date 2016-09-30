@@ -17,7 +17,7 @@
       <guid>/krwdashboard/aanleiding/</guid>
       <description>
 
-&lt;h2 id=&#34;aanleiding:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Aanleiding&lt;/h2&gt;
+&lt;h2 id=&#34;aanleiding&#34;&gt;Aanleiding&lt;/h2&gt;
 
 &lt;p&gt;Rijkswaterstaat heeft Nelen &amp;amp; Schuurmans gevraagd hun visie op visualisatie van ecologische en fysisch-chemische waterkwaliteitsinformatie uit te werken. Hieraan hebben we invulling gegeven door een KRW Dashboard in te richten. Dit KRW Dashboard is een prototype en is gevuld met gegevens uit het KRW portaal en met dummy data.&lt;/p&gt;
 </description>
@@ -31,7 +31,7 @@
       <guid>/krwdashboard/impressie/</guid>
       <description>
 
-&lt;h2 id=&#34;impressie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Impressie&lt;/h2&gt;
+&lt;h2 id=&#34;impressie&#34;&gt;Impressie&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;../../images/screenshot-krw-kpi.jpg&#34; class=&#34;img-responsive&#34;&gt;&lt;/p&gt;
 </description>
@@ -45,7 +45,7 @@
       <guid>/krwdashboard/</guid>
       <description>
 
-&lt;h2 id=&#34;a-name-algemeen-a-krw-dashboard:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;algemeen&#34;&gt;&lt;/a&gt;KRW Dashboard&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-algemeen-a-krw-dashboard&#34;&gt;&lt;a name=&#34;algemeen&#34;&gt;&lt;/a&gt;KRW Dashboard&lt;/h2&gt;
 
 &lt;p&gt;&lt;i class=&#34;fa fa-download&#34;&gt;&lt;/i&gt;&amp;nbsp;&lt;a href=&#34;../files/Informatieblad-KRW.pdf&#34;&gt;Informatieblad&lt;/a&gt;&lt;/p&gt;
 
@@ -53,7 +53,7 @@
 
 &lt;p&gt;Om inzicht te krijgen in de ecologische en fysisch-chemische waterkwaliteit wil je vanuit het grotere geheel kunnen inzoomen naar relevante details. Om dit proces voor de KRW te ondersteunen is het KRW Dashboard ontwikkeld. Door de generieke configuratie is het Dashboard ook geschikt om het voor andere doelen dan KRW in te zetten.&lt;/p&gt;
 
-&lt;h2 id=&#34;a-name-impressie-a-impressie:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;&lt;a name=&#34;impressie&#34;&gt;&lt;/a&gt;Impressie&lt;/h2&gt;
+&lt;h2 id=&#34;a-name-impressie-a-impressie&#34;&gt;&lt;a name=&#34;impressie&#34;&gt;&lt;/a&gt;Impressie&lt;/h2&gt;
 
 &lt;p&gt;(volgt)&lt;/p&gt;
 </description>
