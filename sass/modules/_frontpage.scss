@@ -1,0 +1,81 @@
+.frontpage {
+	background-color: $efcis-white;
+	font-family: 'Merriweather', serif;
+
+	.btn {
+		margin: 20px 0 20px 0;
+	}
+
+	.logo {
+		width: 420px;
+		height: 100px;
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-image: url('../images/efcis-logo.png');
+	}
+
+	h1 {
+		font-size: 5rem;
+		font-weight: 700;
+	}
+
+	h4 {
+		color: #6C4C7D;
+		font-weight: 600;
+	}
+
+	p.lead {
+	    font-size: 2rem;
+	    font-family: "Merriweather", "Georgia", "Times New Roman", serif;
+	    line-height: 1.7;
+	    margin-top: 2em;
+	}
+
+	.header {
+		background-image: url('../images/header-bg.jpg');
+		background-size:     cover;
+	    background-repeat:   no-repeat;
+	    background-position: center center;
+		// background-color: $efcis-purple;
+
+		color: #ffffff;
+		padding-bottom: 3.7rem;
+		padding-top: 2rem;
+	}
+
+	.footer a {
+	  color: #333333;
+	}
+
+
+	a {
+		color: #fff;
+	}
+
+	p.intro-text {
+		font-family: 'Open Sans', sans-serif;
+		font-size: 15px;
+		font-stretch: normal;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: normal;
+		height: 100px;
+		line-height: 25px;
+	    margin-bottom: 4rem;
+	}
+
+	.banner-background {
+		background-image: url('../images/efcis-banner.svg');
+		background-repeat: no-repeat;
+		background-size: 78%;
+		background-position-x: 60px;
+		height: 300px;
+	}
+
+	.dark {
+		color: $threedi-white;
+		background-color: $threedi-darkblue;
+		padding-top: 4rem;
+	}
+
+}
